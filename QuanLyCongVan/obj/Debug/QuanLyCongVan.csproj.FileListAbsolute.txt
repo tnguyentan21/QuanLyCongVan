@@ -1,0 +1,37 @@
+C:\Users\marin_000\Documents\Visual Studio 2015\Projects\QuanLyCongVan\QuanLyCongVan\bin\Debug\QuanLyCongVan.exe.config
+C:\Users\marin_000\Documents\Visual Studio 2015\Projects\QuanLyCongVan\QuanLyCongVan\bin\Debug\QuanLyCongVan.exe
+C:\Users\marin_000\Documents\Visual Studio 2015\Projects\QuanLyCongVan\QuanLyCongVan\bin\Debug\QuanLyCongVan.pdb
+C:\Users\marin_000\Documents\Visual Studio 2015\Projects\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.csprojResolveAssemblyReference.cache
+C:\Users\marin_000\Documents\Visual Studio 2015\Projects\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.Login.resources
+C:\Users\marin_000\Documents\Visual Studio 2015\Projects\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.MainForm.resources
+C:\Users\marin_000\Documents\Visual Studio 2015\Projects\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.Properties.Resources.resources
+C:\Users\marin_000\Documents\Visual Studio 2015\Projects\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.csproj.GenerateResource.Cache
+C:\Users\marin_000\Documents\Visual Studio 2015\Projects\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.exe
+C:\Users\marin_000\Documents\Visual Studio 2015\Projects\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.pdb
+C:\Users\marin_000\Documents\Visual Studio 2015\Projects\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.UC_LanhDao.resources
+C:\Users\marin_000\Documents\Visual Studio 2015\Projects\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.UC_NhanVien.resources
+C:\Users\marin_000\Downloads\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\bin\Debug\QuanLyCongVan.exe.config
+C:\Users\marin_000\Downloads\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.exe
+C:\Users\marin_000\Downloads\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.pdb
+C:\Users\marin_000\Downloads\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\bin\Debug\QuanLyCongVan.exe
+C:\Users\marin_000\Downloads\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\bin\Debug\QuanLyCongVan.pdb
+C:\Users\marin_000\Downloads\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.csprojResolveAssemblyReference.cache
+C:\Users\marin_000\Downloads\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.Login.resources
+C:\Users\marin_000\Downloads\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.MainForm.resources
+C:\Users\marin_000\Downloads\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.Properties.Resources.resources
+C:\Users\marin_000\Downloads\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.UC_LanhDao.resources
+C:\Users\marin_000\Downloads\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.UC_NhanVien.resources
+C:\Users\marin_000\Downloads\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\bin\Debug\QuanLyCongVan.exe.config
+C:\Users\Admin\Desktop\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\bin\Debug\QuanLyCongVan.exe
+C:\Users\Admin\Desktop\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\bin\Debug\QuanLyCongVan.pdb
+C:\Users\Admin\Desktop\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.Login.resources
+C:\Users\Admin\Desktop\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.MainForm.resources
+C:\Users\Admin\Desktop\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.UC_LanhDao.resources
+C:\Users\Admin\Desktop\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.UC_NhanVien.resources
+C:\Users\Admin\Desktop\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.exe
+C:\Users\Admin\Desktop\QuanLyCongVan\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.pdb
