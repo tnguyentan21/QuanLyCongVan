@@ -1,4 +1,4 @@
-# Record-Management-Sysytem
+# Record-Management-System
 
 Record Management System (RMS) an Windows application for managing records and documents for the University of Information Technology.
 
